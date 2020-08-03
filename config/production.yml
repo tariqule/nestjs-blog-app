@@ -1,0 +1,5 @@
+db-postgres:
+  port: 5432
+  username: 'thkdb'
+  password: 'thkdb1234'
+  database: 'thkdb'

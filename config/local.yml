@@ -1,0 +1,6 @@
+
+db-postgres:
+  port: 5432
+  username: 'tariq'
+  password: 'Shanto@100'
+  database: 'thkdb'
